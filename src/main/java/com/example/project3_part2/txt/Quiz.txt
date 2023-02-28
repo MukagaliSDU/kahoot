@@ -1,0 +1,18 @@
+How are you?
+I am fine and you.
+I good.
+I a techer.
+You  good.
+
+What is capital of Kazakhstan?
+Nur-Sultan
+London
+Mockow
+Pekin
+
+{blank}What is your name?
+Mukagali
+
+{blank}Where is Mukagali live?
+Aktobe
+
